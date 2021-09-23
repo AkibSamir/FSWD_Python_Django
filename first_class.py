@@ -1,5 +1,23 @@
 print("Hello World")
 
+# varible
+"""
+variable is like a container.
+we can store data in a variable
+we can declare variavle name with Alphabetic letter(A-Z or a-z) and number
+We can't use any symbles as a variable name
+variable name should start with a letter
+Variable name is case sensetive ex. a and A are two differents variavle
+"""
+name = "Akib Samir"
+age = 26
+
+# Data Types
+# integer, float, string, list, tuple, dictionary, boolean
+print(type(name))   # we can use type() to know the data type
+print(type(age))
+
+
 # Conditional Statement
 # if else statement
 """
